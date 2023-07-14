@@ -1,0 +1,112 @@
+COD ENSE,COD_GRADO,Nombre
+110,1,1° Básico
+110,2,2° Básico
+110,3,3° Básico
+110,4,4° Básico
+110,5,5° Básico
+110,6,6° Básico
+110,7,7° Básico
+110,8,8° Básico
+160,1,Alfabetización
+160,2,Nivel Básico 1 (1° a 4° básico)
+160,3,Nivel Básico 2 (5° a 6° básico)
+160,4,Nivel Básico 3 (7° a 8° básico)
+160,5,Nivel Técnico
+161,1,Alfabetización
+161,2,Nivel Básico 1 (1° a 4° básico)
+161,3,Nivel Básico 2 (5° a 6° básico)
+161,4,Nivel Básico 3 (7° a 8° básico)
+161,5,Nivel Técnico
+163,1,Alfabetización
+163,2,Nivel Básico 1 (1° a 4° básico)
+163,3,Nivel Básico 2 (5° a 6° básico)
+163,4,Nivel Básico 3 (7° a 8° básico)
+163,5,Nivel Técnico
+165,1,Nivel Básico 1 (1° a 4° básico)
+165,2,Nivel Básico 2 (5° a 6° básico)
+165,3,Nivel Básico 3 (7° a 8° básico)
+167,2,Nivel Básico 2 (5° a 6° básico)
+167,3,Nivel Básico 3 (7° a 8° básico)
+310,1,1° medio
+310,2,2° medio
+310,3,3° medio
+310,4,4° medio
+360,1,1° medio
+360,2,2° medio
+360,3,3° medio
+360,4,4° medio
+361,1,Primer ciclo (1° y 2° medio)
+361,3,Segundo ciclo (3° y 4° medio)
+363,1,Primer nivel (1° y 2° medio)
+363,3,Segundo nivel (3° y 4° medio)
+410,1,1° medio
+410,2,2° medio
+410,3,3° medio
+410,4,4° medio
+460,1,Primer ciclo (1° y 2° medio)
+460,3,3° medio
+460,4,4° medio
+461,1,Primer ciclo (1° y 2° medio)
+461,3,3° medio
+461,4,4° medio
+463,1,Primer nivel (1° y 2° medio)
+463,3,Segundo nivel (3° medio)
+463,4,Tercero nivel (4° medio)
+510,1,1° medio
+510,2,2° medio
+510,3,3° medio
+510,4,4° medio
+560,1,Primer ciclo (1° y 2° medio)
+560,3,3° medio
+560,4,4° medio
+561,1,Primer ciclo (1° y 2° medio)
+561,3,3° medio
+561,4,4° medio
+563,1,Primer nivel (1° y 2° medio)
+563,3,Segundo nivel (3° medio)
+563,4,Tercero nivel (4° medio)
+610,1,1° medio
+610,2,2° medio
+610,3,3° medio
+610,4,4° medio
+660,1,Primer ciclo (1° y 2° medio)
+660,3,3° medio
+660,4,4° medio
+661,1,Primer ciclo (1° y 2° medio)
+661,3,3° medio
+661,4,4° medio
+663,1,Primer nivel (1° y 2° medio)
+663,3,Segundo nivel (3° medio)
+663,4,Tercero nivel (4° medio)
+710,1,1° medio
+710,2,2° medio
+710,3,3° medio
+710,4,4° medio
+760,1,Primer ciclo (1° y 2° medio)
+760,3,3° medio
+760,4,4° medio
+761,1,Primer ciclo (1° y 2° medio)
+761,3,3° medio
+761,4,4° medio
+763,1,Primer nivel (1° y 2° medio)
+763,3,Segundo nivel (3° medio)
+763,4,Tercero nivel (4° medio)
+810,1,1° medio
+810,2,2° medio
+810,3,3° medio
+810,4,4° medio
+860,1,Primer ciclo (1° y 2° medio)
+860,3,3° medio
+860,4,4° medio
+861,1,Primer ciclo (1° y 2° medio)
+861,3,3° medio
+861,4,4° medio
+863,1,Primer nivel (1° y 2° medio)
+863,3,Segundo nivel (3° medio)
+863,4,Tercero nivel (4° medio)
+910,1,1° medio
+910,2,2° medio
+910,3,3° medio
+910,4,4° medio
+963,3,Segundo nivel (3° medio)
+963,4,Tercero nivel (4° medio)
